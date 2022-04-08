@@ -60,7 +60,9 @@ AUTO_TRA ~isra_bg2/translations/%s~
 LANGUAGE ~English~
          ~english~
          ~isra_bg2/translations/english/setup.tra~
-
+LANGUAGE ~Russian~
+         ~russian~
+         ~isra_bg2/translations/russian/setup.tra~
 
 /* =============== *
  *  Isra for BGII  *
